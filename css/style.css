@@ -124,6 +124,7 @@ display: none;
 }
 
 .nav1 div.main_list {
+    margin-top: -15px;
     height: 65px;
     float: right;
 }
@@ -141,7 +142,7 @@ display: none;
     width: auto;
     height: 65px;
     padding: 0;
-    padding-right: 3rem;
+    padding-right: rem;
 }
 
 .nav1 div.main_list ul li a {
