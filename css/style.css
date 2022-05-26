@@ -430,7 +430,7 @@ display: none;
 
 .affix {
     padding: 0;
-    background-color:rgba(255,255,255,0.3);
+    background-color:rgb(163 44 48);
     top:0;
     transition: 0.5s
 }
