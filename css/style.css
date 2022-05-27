@@ -455,7 +455,24 @@ display: none;
 	.myP {
 		padding:2%;
 	}
+	
+	
 }
+@media(min-width:768px){
+	.nav1 div.main_list ul li a {
+		padding-left:35px;
+}
+.nav1 div.main_list ul {
+	padding-right:35px;
+	margin-top:15px;
+	padding-left:0px;
+}
+.nav1 div.logo{
+	padding-left:2rem;
+}
+}
+
+
 
 
 
