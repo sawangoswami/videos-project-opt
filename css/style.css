@@ -474,7 +474,7 @@ display: none;
 
 @media(max-width:768px){
 	.nav1 div.main_list ul{
-		margin-top:-15px;
+		margin-top:-;
 	}
 }
 
